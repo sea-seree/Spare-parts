@@ -1,0 +1,29 @@
+.container-fluid {
+    margin-left: 0!important;
+    margin-right: 0!important;
+    padding-left: 0%!important;
+    padding-right: 0%;
+    min-width: 30.5rem;
+    max-width: 115rem
+    
+  }
+.nav-pills li a:hover {
+    background-color: rgb(42, 38, 75)
+}
+
+.text-color-red {
+    color: red;
+}
+
+.text-color-white {
+    color: white;
+}
+
+.text-hover li a:hover {
+    color: red;
+}
+
+.logout:hover {
+    color: #fff;
+    background-color: red;
+}

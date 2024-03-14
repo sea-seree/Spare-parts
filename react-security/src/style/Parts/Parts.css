@@ -1,0 +1,117 @@
+.parts{
+    min-width: 90rem;
+.upper-section {
+    /* background-color: antiquewhite; */
+    padding: 0.5rem 0.5rem;
+}
+
+.lower-list {
+    list-style: none;
+    border: 0.05rem solid rgb(215, 215, 215);
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.parts-body{
+    width: 50%;
+}
+
+.div-left {
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+    margin: 0.5rem;
+}
+
+.photo-parts {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 0.5rem;
+}
+
+.desc-parts {
+    /* background-color: aqua; */
+    margin-left: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}
+
+h6:first-child {
+    color: rgb(249, 148, 23);
+}
+
+h6 {
+    font-weight: normal;
+}
+
+.div-right {
+    /* background-color: greenyellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.5rem;
+}
+
+
+.content {
+    /* background-color: blue; */
+    /* border: 0.025rem solid rgb(221, 221, 221); */
+    margin: 0 1rem 1rem 1rem;
+    /* display: flex; */
+    /* flex-direction: column; */
+    width: auto;
+    
+}
+
+.container-searchbar {
+    margin: 1rem;
+    /* background-color: aqua; */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container-topic {
+    /* background-color: red; */
+    padding: 0.5rem 1rem;
+    /* margin: 0 1rem; */
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.container-card {
+     /* background-color: yellow; */
+     display: flex;
+     flex-wrap : nowrap;
+     justify-content: start;
+     overflow-x: auto;
+     width: auto;
+}
+
+
+.card {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    display: flex;
+    margin: 0.5rem 0.5rem;
+    cursor: pointer;
+    min-width: auto;
+    flex-flow: column;
+}
+
+.card-photo-top {
+    width: 15rem;
+    height: 12rem;
+}
+
+
+
+.card-body p {
+    margin-bottom: 0;
+}
+}

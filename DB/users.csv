@@ -1,0 +1,13 @@
+USER_ID,EMAIL,FIRST_NAME,LAST_NAME,PASSWORD,PHONE,PHOTO,ROLE
+1,john.doe@spare.com,John,Doe,pass123,1234567890,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034301/Profile/vrm3ghfh2rjygfzkxakl.jpgJ6/view?usp=drive_link,1
+2,jane.smith@spare.com,Jane,Smith,secret1,9876543210,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034301/Profile/lm0v08khwy1zb3gmdran.jpg,2
+3,david.johnson@spare.com,David,Johnson,password,987654220,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034301/Profile/mjcms6grsrodbgkvrbnd.jpg,2
+4,emily.brown@spare.com,Emily,Brown,pass456,3215559876,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034301/Profile/vjt9usext9dh0lvrchsn.jpg,1
+5,michael.white@spare.com,Michael,White,secure123,5559876543,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034301/Profile/fifznrqtduhe6mdkqnaa.jpg,2
+6,emma.wilson@spare.com,Emma,Wilson,pass789,3334445555,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/r4lgdn86uka1adceciq4.jpg,3
+7,daniel.miller@spare.com,Daniel,Miller,password123,7778889999,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/i7fvor9vvpedw0b9zgbk.jpg,1
+8,olivia.taylor@spare.com,Olivia,Taylor,pass987,1112223333,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/qeuhx3gm704xbz3y5yjo.jpg,2
+9,james.anderson@spare.com,James,Anderson,secure456,9998887777,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/jvazhuenifqjetedeuqk.jpg,3
+10,sophia.martinez@spare.com,Sophia,Martinez,password789,4445556666,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/xqsdezoo9c2cvxwpxmae.jpg,1
+11,william.garcia@spare.com,William,Garcia,pass789,6667778888,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/ea1m6ekzsindwziuvgz4.jpg,2
+12,ava.hernandez@spare.com,Ava,Hernandez,secure789,2223334444,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034302/Profile/fgrbmrxyki3cdzweyvnr.jpg,3

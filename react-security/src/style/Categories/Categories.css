@@ -1,0 +1,113 @@
+.Categories{
+    .container-searchbar {
+        /* background-color: pink; */
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding: 2rem;
+    }
+    
+    .search-input {
+        margin-right: 1rem;
+        border-radius: 0.5rem;
+        padding: 0 2rem;
+    }
+    
+    .bi-search {
+        position: absolute;
+        margin: 0.5rem 0 0 0.5rem;
+        width: 2rem;
+        height: 2rem;
+        cursor: pointer;
+        color: #888;
+    }
+    
+    input[type='text'] {
+        padding: 0 2rem;
+    }
+    
+    .add-cate {
+        background-color: rgb(249, 148, 23);
+        border-radius: 0.5rem;
+        padding: 0.3rem 2rem;
+        font-weight: bold;
+        border: none;
+    }
+    
+    .add-cate:hover {
+        background-color: rgb(255, 190, 24);
+    }
+    
+    .container-card-cate {
+        display: flex;
+        flex-direction: row;
+        /* justify-content: space-evenly; */
+        flex-wrap: wrap;
+        margin: 1rem;
+        /* background-color: antiquewhite; */
+    }
+    
+    .card {
+        background-color: rgb(245, 245, 245);
+        width: 18rem;
+        border: none;
+        /* box-shadow: rgba(0, 0, 0, 0.16) 0 0.1rem 0.4rem; */
+    }
+    
+    .card-img-top {
+        width: 18rem;
+        height: 16rem;
+    }
+    
+    .card:hover {
+        .dot-menu{
+            color: #cccccc;
+        }
+        .dot-menu:hover, .dot-menu:focus {
+            color: rgb(54, 48, 98);
+            /* border: 0.025rem solid rgb(54, 48, 98); */
+            transform: translate(-0.25rem, -0.25rem);
+        }
+    }
+    
+    .dot-menu {
+        position: absolute;
+        right: 0.4rem;
+        top: 0.2rem;
+        color: #cccccc00;
+        font-size: 2rem;
+        padding: 0 0.5rem;
+        border-radius: 5rem;
+        transition: 0.2s;
+    }
+    
+    
+    
+    .dropdown-menu {
+        padding: 0 0;
+    }
+    
+    .edit{
+        transition: 0.3s;
+    }
+    .delete{
+        transition: 0.3s;
+    }
+    
+    .edit:hover {
+        color: #525CEB;
+        transform: translate(-0.25rem, -0.25rem);
+        background: rgb(255, 255, 255);
+        box-shadow: 0.25rem 0.25rem rgb(54, 48, 98);
+        border-radius: 0.25rem;
+    }
+    
+    .delete:hover {
+        color: red;
+        transform: translate(-0.25rem, -0.25rem);
+        background: rgb(255, 255, 255);
+        box-shadow: 0.25rem 0.25rem rgb(255, 0, 0);
+        border-radius: 0.25rem;
+    }
+    
+    }

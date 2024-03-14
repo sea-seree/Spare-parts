@@ -1,0 +1,29 @@
+PART_ID,DESCRIPTION,NAME,PHOTO,PRICE,SKU,CATEGORY_ID,SUPPLIER_ID
+1,"High-quality stainless steel screw, 1 inch","Stainless Steel Screw",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034554/Part/1..png,77.00,XX-001,1,1
+2,"Durable hexagonal bolt, 2 inches","Hexagonal Bolt",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034557/Part/2..png,55.00,XX-002,1,1
+3,"Precision steel nut, 0.5 inches","Steel Nut",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034559/Part/3..png,89.25,XX-003,1,2
+4,"Flat washer for various applications, 1.5 inches","Flat Washer",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034559/Part/4..png,47.50,XX-004,1,2
+5,"High-quality rubber O-ring, pack of 10","Rubber O-Ring",http://res.cloudinary.com/dif2wztfi/image/upload/v1705632920/o1cjz3kuiwoi6rwvcog3.png,18.75,XX-005,1,2
+6,"High-quality gear assembly for machinery applications","Gear Assembly",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034559/Part/6..png,1215.50,XX-006,3,2
+7,"Durable hydraulic cylinder for heavy-duty use","Hydraulic Cylinder",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034559/Part/7..png,3320.00,XX-007,3,2
+8,"Complete bearing kit for smooth operation","Bearing Kit",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034559/Part/8..png,760.50,XX-008,3,3
+9,"Flexible shaft coupling for connecting shafts","Shaft Coupling",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034560/Part/9..png,588.25,XX-009,3,3
+10,"Reliable pneumatic actuator for automation systems","Pneumatic Actuator",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034554/Part/10..png,253.50,XX-010,3,3
+11,"High-quality ball bearing for various applications","Ball Bearing",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034554/Part/11..png,295.75,XX-011,2,3
+12,ddd,"Ball Bearings misumi",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034554/Part/12..png,344.50,XX-012,2,4
+13,"Durable roller bearing for heavy-duty use","Roller Bearing",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034554/Part/13..png,438.75,XX-013,2,3
+14,"Smooth and reliable plain bearing for low friction","Plain Bearing",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034554/Part/14..png,302.25,XX-014,2,4
+15,"Precision linear bearing for linear motion systems","Linear Bearing",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034555/Part/15.png,663.00,XX-015,2,4
+16,"Self-aligning spherical roller bearing for misalignment compensation","Spherical Roller Bearing",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034555/Part/16..png,885.75,XX-016,2,5
+17,"High-quality oil filter for engine maintenance","Engine Oil Filter",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034555/Part/17..png,265.50,XX-017,4,4
+18,"High-quality oil filter","Oil Filter",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034556/Part/18..png,212.50,XX-018,4,5
+19,"Durable brake pad set for reliable braking performance","Brake Pad Set ",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034557/Part/19..png,498.50,XX-019,4,4
+20,,"Brake Pad ",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034557/Part/20..png,440.25,XX-020,4,5
+21,"Durable starter motor for engine ignition","Starter Motor",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034557/Part/21..png,663.75,XX-021,4,5
+22,"Maintenance-free battery for starting the vehicle",Battery,https://res.cloudinary.com/dif2wztfi/image/upload/v1705034557/Part/22..png,2493.75,XX-022,4,5
+23,"Standard spark plug for combustion in the engine","Spark Plug",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034557/Part/22..png,259.75,XX-023,4,4
+24,"Maintenance-free battery for starting the vehicle","Car Battery",https://res.cloudinary.com/dif2wztfi/image/upload/v1705034558/Part/24..png,2012.50,XX-024,4,4
+31,safasf,BIG,http://res.cloudinary.com/dif2wztfi/image/upload/v1705632920/o1cjz3kuiwoi6rwvcog3.png,1.00,FS-124,1,1
+32,12512,pack,http://res.cloudinary.com/dif2wztfi/image/upload/v1705632920/o1cjz3kuiwoi6rwvcog3.png,1.00,PK-125,1,1
+33,124,CCC,http://res.cloudinary.com/dif2wztfi/image/upload/v1705632920/o1cjz3kuiwoi6rwvcog3.png,12.00,SF-129,1,1
+36,12412,asfasf,http://res.cloudinary.com/dif2wztfi/image/upload/v1705632920/o1cjz3kuiwoi6rwvcog3.png,1.00,FG-251,1,1

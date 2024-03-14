@@ -1,0 +1,37 @@
+
+.profile {
+    .profileInfoImg {
+        height: 14rem;
+        width: 14rem;
+        margin: 1.5rem;
+        margin-left: 2rem;
+        border-radius: 50%;
+
+    }
+    .roleText {
+        color:rgb(249, 148, 23) ;
+    }
+    .edit-btn {
+        background-color: rgb(249, 148, 23);
+        border-radius: 0.5rem;
+        padding: 0.5rem 1rem;
+        /* padding-left: 1rem; */
+        font-weight: bold;
+        border: none;
+        transition: 0.3s;
+        
+    }
+    
+    .edit-btn:hover {
+        color:rgb(254, 254, 254);
+        transform: translate(-0.25rem, -0.25rem);
+        background: rgb(54, 48, 98);
+        box-shadow: 0.25rem 0.25rem rgb(249, 148, 23);
+    }
+    
+    .edit-btn:active {
+        transform: translate(0);
+        box-shadow: none;
+    }
+
+}

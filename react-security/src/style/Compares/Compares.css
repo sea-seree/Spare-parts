@@ -1,0 +1,211 @@
+
+.Compares{
+    padding-left: 3rem;
+    padding-top: 3rem;
+}
+
+
+.Compares, .ComparesPopup {
+.upper-section {
+    /* background-color: antiquewhite; */
+    padding: 0.5rem 0.5rem;
+}
+
+.lower-list {
+    list-style: none;
+    border: 0.05rem solid rgb(215, 215, 215);
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.div-left {
+    /* background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+    margin: 0.5rem;
+}
+
+.photo-parts {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 0.5rem;
+}
+
+.desc-parts {
+    /* background-color: aqua; */
+    margin-left: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: black;
+}
+
+h6:first-child {
+    color: rgb(249, 148, 23);
+}
+
+h6 {
+    font-weight: normal;
+}
+
+.div-right {
+    /* background-color: greenyellow; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.5rem;
+}
+
+
+.content {
+    /* background-color: blue; */
+    /* border: 0.025rem solid rgb(221, 221, 221); */
+    margin: 0 1rem 1rem 1rem;
+    /* display: flex; */
+    /* flex-direction: column; */
+    width: auto;
+    
+}
+
+.container-searchbar {
+    margin: 1rem;
+    /* background-color: aqua; */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container-topic {
+    /* background-color: red; */
+    padding: 0.5rem 1rem;
+    /* margin: 0 1rem; */
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.container-card {
+     /* background-color: yellow; */
+     display: flex;
+     overflow-x: auto;
+     width: auto;
+}
+
+.container-card-popup {
+    /* background-color: yellow; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow-x: auto;
+    width: auto;
+}
+
+
+.card {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 0.5rem;
+    min-width: auto;
+    flex-flow: column;
+}
+
+.cardSelected {
+    /* border-i: 0.2rem solid rgba(220, 220, 25, 0.672); */
+    box-shadow:inset 0px 0px 0px 0.3rem rgba(249, 147, 23, 0.703);
+}
+
+.card-photo-top {
+    width: 12rem;
+    height: 10rem;
+}
+
+.card-photo-top-pop {
+    width: 6rem;
+    height: 5rem;
+}
+
+.card-body p {
+    margin-bottom: 0;
+}
+
+.btn-compare {
+    background-color: rgb(249, 148, 23);
+    border-radius: 0.5rem;
+    padding: 0.6rem 1rem;
+    /* padding-left: 1rem; */
+    font-weight: bold;
+    border: none;
+    border-radius: 0;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+
+.btn-compare:hover {
+    background-color: rgb(255, 190, 24);
+}
+
+.btn-compare:disabled {
+    background-color: rgb(178, 132, 18);
+}
+
+.btn-reset {
+    background-color: rgb(220, 220, 25);
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    /* margin-right: 0.5rem; */
+    font-weight: bold;
+    border: none;
+    border-radius: 0;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+
+.btn-reset:hover {
+    background-color: rgb(238, 238, 30);
+}
+
+.btn-reset:disabled {
+    background-color: rgb(195, 195, 21);
+}
+
+.btn-export {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+.exportTo{
+    margin: 0.5rem 1rem 1.25rem 0rem;
+}
+
+.btn-exportTo {
+    background-color: rgb(22, 150, 29);
+    color: rgb(246, 246, 246);
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    margin-left: .5rem;
+    border-radius: 2rem;
+}
+.CSV{
+    background-color: rgb(32, 204, 41);
+    color: black;
+}
+.CSV:hover {
+    background-color: rgb(45, 242, 55);
+}
+
+.JSON{
+    background-color: rgb(202, 202, 29);
+    color: black;
+}
+.JSON:hover {
+    background-color: rgb(227, 227, 35);
+}
+}

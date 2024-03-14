@@ -1,0 +1,165 @@
+.Export {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.Explore{
+    .content{
+        background-color: rgb(245, 245, 245);
+        min-width: 30rem;
+        margin-top: 1.5rem;
+        margin-right: 3rem;
+        border-radius: 2rem;
+        max-width: 40rem;
+    }
+}
+
+.Export-data{
+    .content{
+        background-color: rgb(245, 245, 245);
+        min-width: 30rem;
+        margin-top: 1.5rem;
+        margin-right: 3rem;
+        border-radius: 2rem;
+        min-width: 40rem;
+    }
+}
+
+.Explore, .Export-data{
+
+.topic{
+    padding-left: 1rem;
+}
+
+.content-body{
+    padding: 1rem 2rem;
+    font-weight: bold;
+    font-size: large;
+}
+
+.label-input {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    
+}
+
+.label-input-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 6rem;
+    align-items: center;
+    
+}
+
+.selection {
+   width : 30rem;
+   margin-left: 2rem;
+}
+
+.selection-filter {
+    width : 30rem;
+
+ }
+
+.btn-export {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+button[type='Submit'] {
+    background-color: rgb(245, 153, 41);
+    font-weight: bold;
+    border: none;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+    border-radius: 2rem;
+}
+button[type='Submit']:hover {
+    background-color: rgb(255, 179, 86);
+}
+
+button[type='Submit']:disabled {
+    background-color: rgba(219, 122, 31, 0.8);
+}
+.exportTo{
+    margin: 0.5rem 1rem 1.25rem 0rem;
+}
+
+.btn-exportTo {
+    background-color: rgb(22, 150, 29);
+    color: rgb(246, 246, 246);
+    border: none;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 0.5rem 1.5rem 0.5rem 1.5rem;
+    margin-left: .5rem;
+    border-radius: 2rem;
+}
+.CSV{
+    background-color: rgb(32, 204, 41);
+    color: black;
+}
+.CSV:hover {
+    background-color: rgb(45, 242, 55);
+}
+
+.JSON{
+    background-color: rgb(202, 202, 29);
+    color: black;
+}
+.JSON:hover {
+    background-color: rgb(227, 227, 35);
+}
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr {
+    background-color: rgb(54, 48, 98);
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid rgb(54, 48, 98);
+}
+
+.styled-table tbody tr.active-row {
+    font-weight: bold;
+    color: rgb(52, 42, 107);
+}
+
+.styled-table tbody tr.active-row:hover {
+    background-color: rgba(96, 82, 200, 0.1);
+    color: rgb(36, 27, 83);
+}
+
+.table-responsive {
+    height: 30rem;
+    overflow-y: auto;
+}
+
+}

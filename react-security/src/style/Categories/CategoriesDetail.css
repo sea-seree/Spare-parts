@@ -1,0 +1,63 @@
+.CategoriesDetail{
+.breadcrumb {
+
+    margin-bottom: 0;
+    padding: 2.5rem 0 2rem 1.5rem;
+    text-align: end;
+}
+
+a {
+    padding: 0 0.25rem;
+    text-decoration: none;
+}
+
+.container-searchbar {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1.5rem;
+}
+
+.search-input {
+    margin-right: 1rem;
+    border-radius: 0.5rem;
+}
+
+.bi-search {
+    position: absolute;
+    margin: 0.5rem 0 0 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    color: #888;
+}
+
+input[type='text'] {
+    padding: 0 2rem;
+}
+
+.btn {
+    background-color: rgb(249, 148, 23);
+    border-radius: 0.5rem;
+    padding: 0 2rem;
+    font-weight: bold;
+}
+
+.container-card {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+    margin-top: 2rem;
+}
+
+.card {
+    background-color: rgb(245, 245, 245);
+    width: 18rem;
+    cursor: pointer;
+}
+
+.card-img-top {
+    width: 18rem;
+    height: 16rem;
+}
+}

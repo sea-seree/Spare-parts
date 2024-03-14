@@ -1,0 +1,50 @@
+
+.add-btn {
+    background-color: rgb(249, 148, 23);
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    /* padding-left: 1rem; */
+    font-weight: bold;
+    border: none;
+    transition: 0.3s;
+}
+
+.add-btn:hover {
+    color:rgb(254, 254, 254);
+    transform: translate(-0.25rem, -0.25rem);
+    background: rgb(54, 48, 98);
+    box-shadow: 0.25rem 0.25rem rgb(249, 148, 23);
+}
+
+.add-btn:active {
+    transform: translate(0);
+    box-shadow: none;
+}
+
+.search-box {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.search-input {
+    
+    margin-right: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.4rem 1rem;
+    padding-left: 2rem;
+    border: 0.1rem solid rgb(0, 0, 0); ;
+    
+}
+
+.bi-search {
+    position: absolute;
+    margin: 0.5rem 0 0 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    color: #888;
+}

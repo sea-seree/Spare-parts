@@ -1,0 +1,10 @@
+.Index{
+    .content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: start;
+        margin: 0 1rem 1rem 1rem;
+        min-width: auto;
+        text-align: center;
+    }
+}

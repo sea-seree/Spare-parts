@@ -1,0 +1,83 @@
+.supplier{
+
+.search-icon {
+    position: absolute;
+    margin: 0.5rem 0 0 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+    color: #888;
+}
+
+.search-space{
+    padding-left: 2rem;
+    margin-right: 1rem;
+    /* background-color: orangered; */
+}
+
+/* input[type='text'] {
+    padding: 0 2rem;
+} */
+
+.supplier-add {
+    background-color: rgb(249, 148, 23);
+    border-radius: 0.5rem;
+    padding: 0.5rem 2rem;
+    font-weight: bold;
+}
+
+.supplier-block-card{
+    display: flex;
+    /* flex-direction: column; */
+    flex-direction: row;
+    justify-content: start;
+    flex-wrap: wrap;
+    
+    /* background-color: blueviolet; */
+    padding-bottom: 2rem;
+}
+
+.supplier-card {
+    background-color: rgb(245, 245, 245);
+    width: 15rem;
+    cursor: pointer;
+    margin: 0.5rem;
+}
+
+.img-card{
+    box-shadow: none;
+    height: 15rem;
+}
+
+.supplier-name-card{
+    text-align: left;
+    
+}
+
+
+/* .Suppliers{
+    position: relative;
+
+    .row{
+        position: relative;
+    }
+    
+    .supplierHead {
+        margin-right: auto;
+    }
+    
+    .searchBar{
+        position: relative;
+    }
+    
+    .addButton{
+        position: relative;
+        margin-right: 10px;
+        margin-left: 1rem;
+        width: auto;
+    }
+} */
+
+/* info input styling ========> */
+
+}
